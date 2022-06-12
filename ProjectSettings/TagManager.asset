@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plateform
+  - Don't Climb
+  - Moving Platform
+  - Collider Player
+  - Trigger Bot
+  - Ennemy
+  - Trigger Zones
+  - Ground
+  - Decors
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Level
+  - 2nd Plan
+  - Ground
+  - Decors
+  - Player
+  - OneWay Platform
+  - Weapon
+  - Don't Collide with Player
+  - Don't Collide with Ennemy
+  - Ennemy
+  - Camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1934840489
+    locked: 0
+  - name: Second Plan
+    uniqueID: 2755228469
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1121861129
+    locked: 0
+  - name: 1er Plan
+    uniqueID: 2723223773
+    locked: 0

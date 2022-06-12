@@ -1,0 +1,6 @@
+﻿//PANNEAU 1: Ligne 1, à 2;
+Ceci est un panneau test
+Et voilà ce qui arrive lorsque l'on tente d'afficher un texte qui est tellement long qu'il dépasse des bord du panneau, quoi doit on faire à ce niveau là, éviter d'écrire des textes trop long en sachant ce qu'il va arriver ou alors essayer, dans le code, de découper le texte pour qu'il rentre bien dans la boîte de texte? Au risque alors que le texte soit découpé un peu bizarrement. Alors? Ca rend comment?.
+
+//PANNEAU SURPIRSE: ligne5 à 5;
+SURPRISE!!

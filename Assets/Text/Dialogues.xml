@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Dialogues>
+
+  <DialogueInfoSaut>
+    <Bulle>Pour sauter et franchir des obstacles il faut appuyer sur "espace"</Bulle>
+    <Bulle>Ca va? Ils vous a pas ennuyé l'autre panneau?... Qu'est-ce qu'il parle....</Bulle>
+  </DialogueInfoSaut>
+
+
+  <DialoguePremierPanneau>
+    <Bulle1>Hey! Salut la peluche! C'est la première fois que je te vois ici!
+Moi je suis, un magnifique panneau.</Bulle1>
+    <Bulle2>Ewai, tout les bons jeux commencent par des panneaux. Ca veut dire qu'on est super important! Et moi je suis le 1er panneau du jeu hahaha. J'ai toujours su que j'allais faire quelchose de ma vie, ma mère serait fière.</Bulle2>
+    <Bulle3>Bon assez lu, il faudrait peut-être que je fasse mon travail. Tu sais, nous les panneaux, est là pour te donner des informations utiles. Et moi mon but c'était de te dire... euh...</Bulle3>
+    <Bulle3>Attends un peu... J'... J'ai oublié	&gt;_&lt;.</Bulle3>
+    <Bulle3>AH OUI!!!</Bulle3>
+    <Bulle3>Dis, tu savais que tu pouvais interragir avec des objets en appuyant sur "e"?</Bulle3>
+    <Bulle3>...</Bulle3>
+    <Bulle3>...</Bulle3>
+    <Bulle3>Eh mais c'est nul, forcément tu le sais sinon tu m'aurais pas lu. Meh...</Bulle3>
+    <Bulle3>Euh... Désolé... En tout cas c'est gentil de me lire, t'étais pas obligé tu sais. J'espère qu'on pourra devenir amis, généralement les gens me lisent et repartent sans un merci.</Bulle3>
+    <Bulle3>Mais, au fait, t'es là pour quoi?</Bulle3>
+    <Bulle3>Manger? Même pas libérer une princesse ou sauver le monde? Je suis déçus...</Bulle3>
+    <Bulle> Ben je connais un endroit qui pourrait bien te plaire du coup, retrouves moi plus loin!</Bulle>
+</DialoguePremierPanneau>
+
+  <DialogueInfoSaut>
+    <Bulle>Pour sauter et franchir des obstacles il faut appuyer sur "espace"</Bulle>
+    <Bulle>Ca va? Ils vous a pas ennuyé l'autre panneau?... Qu'est-ce qu'il parle....</Bulle>
+  </DialogueInfoSaut>
+
+  <DialogueInfoBlob>
+    <Bulle>Coucou! C'est encore moi! T'es arrivé jusqu'ici, c'est plutôt pas mal.</Bulle>
+    <Bulle>Tu vois les boules gluantes par là bas? C'est vivant, berk. Mais il ne faut pas les manger hein! Ce n'est pas de la gelée.</Bulle>
+    <Bulle>En fait... ne les touche même pas, elle ne sont pas très intelligentes, mais elle ne sont pas commodes non plus.</Bulle>
+  </DialogueInfoBlob>
+
+  <DialoguePanneauInfoMinotaure>
+    <Bulle>Whoua tu avances bien!</Bulle>
+    <Bulle>Mais là quelquechose de plus gros t'attends...</Bulle>
+  </DialoguePanneauInfoMinotaure>
+
+  
+  <DialogueMinotaure>
+    <Bulle>Toi faire quoi chez moi?</Bulle>
+    <Bulle>Moi aime pas inconnus, moi écraser toi!</Bulle>
+  </DialogueMinotaure>
+
+  <DialogueMinotaure2>
+    <Bulle>RAAAH! Moi déteste lapins!!</Bulle>
+    <Bulle>Toi vouloir voler aussi!</Bulle>
+  </DialogueMinotaure2>
+
+  <DialogueMinotaureKO>
+    <Bulle>Ouille</Bulle>
+  </DialogueMinotaureKO>
+
+
+
+
+
+  <DialoguePanneauGrotte1>
+    <Bulle>Hmm, je ne m'attendais pas à ce que l'on passe par ici...</Bulle>
+    <Bulle>Le chemin vers ma surpise sera un peu plus long, et plus dangereux. Il te faudra peut-être une arme pour sortir d'ici.</Bulle>
+    <Bulle>Oui oui, je sais que tu as faim, mais c'est pour cela que tu dois continuer!</Bulle>
+  </DialoguePanneauGrotte1>
+  <DialoguePanneauGrotte2>
+    <Bulle>Ah! Tu as une épée?</Bulle>
+    <Bulle>...</Bulle>
+    <Bulle>En bois donc... J'espérais quelquechose de plus... héroïque.</Bulle>
+    <Bulle>Enfin bon, je vais pas me plaindre, le bois est la plus noble des matières!</Bulle>
+  </DialoguePanneauGrotte2>
+
+  <DialogueTrouveEpee1>
+    <Bulle>Une magnifique épée émaillée d'or coincée dans un rocher, sans doute destinée à un chevalier extraordinaire</Bulle>
+    <Bulle>...</Bulle>
+    <Bulle>Mais elle est indélogeable.</Bulle>
+    <Bulle>Il y a quelque chose derrière le rocher...</Bulle>
+  </DialogueTrouveEpee1>
+
+
+  <DialogueTrouveEpee2>
+    <Bulle>Vous récupérez une épée en bois!</Bulle>
+    <Bulle>Pour l'utiliser, il faut appyer sur la touche "A"</Bulle>
+  </DialogueTrouveEpee2>
+
+  
+  
+  
+  <DialogueRenard0>
+    <Bulle>Hein? Il y a quelqu'un?</Bulle>
+  </DialogueRenard0>
+  
+  <DialogueRenard1>
+    <Bulle>Attend. Attend.</Bulle>
+    <Bulle>Je suis enfermé ici depuis des jours...
+Si tu m'aide... je te donnerais une récompense.</Bulle>
+    <Bulle>C'est un lourdeau à corne, une sorte de grosse vachette en colère qui m'a coincé, j'espère qu'il veut pas me manger. C'est végétarien les vaches non?</Bulle>
+    <Bulle>Il doit avoir la clée de la porte sur lui. Si tu la trouve, viens me sortir d'ici, je t'en supplie.</Bulle>
+    <Bulle>Bonne chance!</Bulle>
+  </DialogueRenard1>
+
+  <DialogueRenard2>
+    <Bulle>Hey, me regarde pas comme ça! Allez va chercher la clée et libère moi!</Bulle>
+  </DialogueRenard2>
+
+
+
+
+
+
+
+
+  <DialoguePanneau1>
+    <Bulle1>Mouhahahaha je suis le premier paneau test et mon dialogue vient d'un fichier XML.</Bulle1>
+    <Bulle2>Et je parle en plusieurs lignes</Bulle2>
+    <Bulle3>
+      Et donc du coup que ce passe t'il lorsque je saute une ligne?
+      Et que mon texte est beacoup trop long pour pouvoir rentrer dans une seule bulle? Regarde, tu vois un peu comme ici ou je parle beaucoup trop pour ne rien dire au final juste pour tester
+    </Bulle3>
+  </DialoguePanneau1>
+
+  <DialoguePanneauSurprise>
+    <Bulle1>Surprise!!!</Bulle1>
+  </DialoguePanneauSurprise>
+
+
+
+</Dialogues>
